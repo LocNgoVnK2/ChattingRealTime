@@ -1,1 +1,1 @@
-chatguru.azurewebsites.net
+WEB URL : chatguru.azurewebsites.net
